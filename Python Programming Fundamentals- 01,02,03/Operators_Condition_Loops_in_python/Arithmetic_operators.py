@@ -1,0 +1,7 @@
+print(5+6)
+print(6-5)
+print(6*5)
+print(10/4)
+print(5//2)
+print(5%2)
+print(5**2)
